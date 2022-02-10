@@ -13,13 +13,12 @@ _To deploy the project you can run the ".gb" file  on a GameBoy Emulator, but if
 ### Build with 🛠️
 _The software used in the development of the project are:_
 
-```
 * [Gameboy Development Kit](https://sourceforge.net/projects/gbdk/files/gbdk-win32/2.95-3/) - Kit necessary to develop on GameBoy
 * [GameBoy Emulator](https://bgb.bircd.org/) - To emulate the game
 * [GameBoy Map Builder](http://www.devrs.com/gb/hmgd/gbmb.html) - To design the Background of the level
 * [GameBoy Tile Designer](http://www.devrs.com/gb/hmgd/gbtd.html) - To design the sprite to the character and tiles for the Background
 * [Visual Studio Code](https://code.visualstudio.com/) - Text editor of preference
-```
+
 _Recommended to execute the project and modify it_
 
 ### Special thanks 🎁
