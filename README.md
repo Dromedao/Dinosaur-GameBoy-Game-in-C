@@ -1,5 +1,5 @@
 # Dinosaur-GameBoy-Game-in-C
-_Minigame developed in C using GBDK. _ 
+_Minigame developed in C using GBDK._ 
 
 ## Starting 🚀
 _This is a project in development, feel free to use it in whatever you want._
